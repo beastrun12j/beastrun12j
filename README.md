@@ -30,19 +30,19 @@ Reach me out 💬
 ----------------
 
 <a href="https://www.linkedin.com/in/pranav-kumar-10a164143/">
-  <img align="left" width="26px" src="https://img.icons8.com/ios-filled/50/4a90e2/linkedin-2--v2.png"  />
+  <img align="left" width="36px" src="https://img.icons8.com/ios-filled/50/4a90e2/linkedin-2--v2.png"  />
 </a>
   
 <a href="https://twitter.com/Beastrun_12j">
-  <img align="left" width="26px" src="https://img.icons8.com/color/48/4a90e2/twitter--v2.png"/>
+  <img align="left" width="36px" src="https://img.icons8.com/color/48/4a90e2/twitter--v2.png"/>
 </a>
   
 <a href="https://www.behance.net/pranavtiwari3">
-  <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/behance.png"/>
+  <img align="left" width="36px" src="https://img.icons8.com/color/48/000000/behance.png"/>
 </a>
   
 <a href="mailto:pranavtiwari12j@gmail.com">
-  <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/gmail.png" />
+  <img align="left" width="36px" src="https://img.icons8.com/color/48/000000/gmail.png" />
 </a>
 </br>
 
@@ -50,6 +50,7 @@ My GitHub Stats 📈
 -------------------
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=beastrun12j&show_icons=true&theme=gotham" alt="beastrun12j" />
+</br>
 ![](https://visitor-badge.glitch.me/badge?page_id=beastrun12j.beastrun12j)
 </br>
   
