@@ -25,13 +25,6 @@ Languages and Tools 🛠
 <code><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"></code>
 <code><img src="https://img.icons8.com/color/48/000000/css3.png"></code>
 
-My GitHub Stats 📈
-------------------------
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=beastrun12j&show_icons=true&theme=gotham" alt="beastrun12j" />
-![](https://visitor-badge.glitch.me/badge?page_id=beastrun12j.beastrun12j)
-</br>
-  
 Reach me out 💬
 --------------------------  
 
@@ -50,6 +43,12 @@ Reach me out 💬
 <a href="mailto:pranavtiwari12j@gmail.com">
   <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/gmail.png" />
 </a>
+
+My GitHub Stats 📈
+------------------------
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=beastrun12j&show_icons=true&theme=gotham" alt="beastrun12j" />
+![](https://visitor-badge.glitch.me/badge?page_id=beastrun12j.beastrun12j)
 </br>
   
 🚧 **My Todoist Stats:**
