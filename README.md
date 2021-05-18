@@ -43,6 +43,7 @@ Reach me out 💬
 <a href="mailto:pranavtiwari12j@gmail.com">
   <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/gmail.png" />
 </a>
+</br>
 
 My GitHub Stats 📈
 ------------------------
