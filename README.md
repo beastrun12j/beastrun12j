@@ -1,11 +1,11 @@
-### Hola! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , Pranav this side
+### Hola! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> , Pranav this side
   
   ### About Me 🚀
-- 🎓 I’m a Student and Open Source Enthusiast currently pursuing my Bachelors in Computer Science. </br>
-- 👨‍💻 I am passionate about Android, Web, UI/UX Designing and Cloud Technologies</br>
-- 🌱 I’m currently learning Advanced Android Development and UX Designing</br>
-- 🔭 I’m currently working on developing my core skills and Learning New and Futuristic Technologies</br>
-- 👯 I’m open to collaborate with people in the Open Source Environment</br>
+🎓 I’m a Student and Open Source Enthusiast currently pursuing my Bachelors in Computer Science. </br>
+👨‍💻 I am passionate about Android, Web, UI/UX Designing and Cloud Technologies</br>
+🌱 I’m currently learning Advanced Android Development and UX Designing</br>
+🔭 I’m currently working on developing my core skills and Learning New and Futuristic Technologies</br>
+👯 I’m open to collaborate with people in the Open Source Environment</br>
 
 <img align="right" alt="GIF" src="https://assets7.lottiefiles.com/packages/lf20_g0zfud2s.json" width="500" height="320" />
 
