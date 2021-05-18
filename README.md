@@ -9,7 +9,7 @@ About Me 🚀
 🔭 I’m currently working on developing my core skills and Learning New and Futuristic Technologies</br>
 👯 I’m open to collaborate with people in the Open Source Environment</br>
 
-<img align="right" alt="GIF" src="https://github.com/beastrun12j/beastrun12j/blob/master/60424-web-hosting.gif" width="450" height="320" />
+<img align="right" alt="GIF" src="https://github.com/beastrun12j/beastrun12j/blob/master/60424-web-hosting.gif" width="400" height="320" />
 
 
 Languages and Tools 🛠
