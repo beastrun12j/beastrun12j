@@ -9,7 +9,8 @@ About Me 🚀
 🔭 I’m currently working on developing my core skills and Learning New and Futuristic Technologies</br>
 👯 I’m open to collaborate with people in the Open Source Environment</br>
 
-<iframe align="right" alt="GIF" src="https://lottiefiles.com/iframe/60424-web-hosting" width="500" height="320"></iframe>
+img align="right" alt="GIF" src="https://lottiefiles.com/60424-web-hosting" width="500" height="320" />
+
 
 Languages and Tools 🛠
 ------------------------
