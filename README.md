@@ -11,7 +11,8 @@ About Me 🚀
 
 <img align="right" alt="GIF" src="https://assets7.lottiefiles.com/packages/lf20_g0zfud2s.json" width="500" height="320" />
 
-**Languages and Tools:**  
+Languages and Tools 🛠
+------------------------
 
 <code><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></code>
 <code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
@@ -25,14 +26,15 @@ About Me 🚀
 <code><img src="https://img.icons8.com/color/48/000000/css3.png"></code>
 
 📈 My GitHub Stats
+------------------------
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=beastrun12j&show_icons=true&theme=gotham" alt="beastrun12j" />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=beastrun12j.beastrun12j)
+![](https://visitor-badge.glitch.me/badge?page_id=beastrun12j.beastrun12j)
   
 ## - 💬 Reach me out ...
 
 <a href="https://www.linkedin.com/in/pranav-kumar-10a164143/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://img.icons8.com/ios-filled/50/4a90e2/linkedin-2--v2.png"  />
 </a>
   
 <a href="https://twitter.com/Beastrun_12j">
