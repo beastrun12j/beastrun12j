@@ -61,4 +61,4 @@ My Todoist Stats 🚧
 ✅  Completed 210 tasks so far           
 ⏳  Longest streak is 7 days
   
-<h2 style="font-size:100px"> <b> ⚡ Fun fact: It took less code to send a man to the moon than to run a smartphone.</b> </h2>
+<code style="font-size:100px"> <b> ⚡ Fun fact: It took less code to send a man to the moon than to run a smartphone.</b> </code>
