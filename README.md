@@ -1,8 +1,8 @@
-Hola! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> , Pranav this side
+Hola! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> , I'm Pranav
 ===================================
   
 About Me 🚀
----------------
+------------
 🎓 I’m a Student and Open Source Enthusiast currently pursuing my Bachelors in Computer Science. </br>
 👨‍💻 I am passionate about Android, Web, UI/UX Designing and Cloud Technologies</br>
 🌱 I’m currently learning Advanced Android Development and UX Designing</br>
@@ -13,7 +13,7 @@ About Me 🚀
 
 
 Languages and Tools 🛠
-------------------------
+-----------------------
 
 <code><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></code>
 <code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
@@ -27,7 +27,7 @@ Languages and Tools 🛠
 <code><img src="https://img.icons8.com/color/48/000000/css3.png"></code>
 
 Reach me out 💬
---------------------------  
+----------------
 
 <a href="https://www.linkedin.com/in/pranav-kumar-10a164143/">
   <img align="left" width="26px" src="https://img.icons8.com/ios-filled/50/4a90e2/linkedin-2--v2.png"  />
@@ -47,13 +47,15 @@ Reach me out 💬
 </br>
 
 My GitHub Stats 📈
-------------------------
+-------------------
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=beastrun12j&show_icons=true&theme=gotham" alt="beastrun12j" />
 ![](https://visitor-badge.glitch.me/badge?page_id=beastrun12j.beastrun12j)
 </br>
   
-🚧 **My Todoist Stats:**
+My Todoist Stats 🚧 
+--------------------
+
 🏆  7,837 Karma Points                     
 ✅  Completed 642 tasks so far           
 ⏳  Longest streak is 10 days
