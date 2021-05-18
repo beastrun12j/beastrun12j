@@ -16,7 +16,7 @@ About Me 🚀
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"></code>
+<code><img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sqlite.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobexd.svg"></code>
