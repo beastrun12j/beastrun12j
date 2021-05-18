@@ -1,8 +1,8 @@
 Hola! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> , Pranav this side
 ===================================
   
-  ### About Me 🚀
-  ---------------
+About Me 🚀
+---------------
 🎓 I’m a Student and Open Source Enthusiast currently pursuing my Bachelors in Computer Science. </br>
 👨‍💻 I am passionate about Android, Web, UI/UX Designing and Cloud Technologies</br>
 🌱 I’m currently learning Advanced Android Development and UX Designing</br>
