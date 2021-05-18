@@ -2,8 +2,6 @@ Hola! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/A
 ===================================
 
 ![](https://visitor-badge.glitch.me/badge?page_id=beastrun12j.beastrun12j)
-
-</br>
   
 About Me 🚀
 ------------
