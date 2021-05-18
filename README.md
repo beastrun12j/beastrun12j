@@ -13,16 +13,16 @@ About Me 🚀
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg"></code>
+<code><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></code>
+<code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
+<code><img src="https://img.icons8.com/color/48/000000/android-os.png"></code>
 <code><img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sqlite.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobexd.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlecloud.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg"></code>
+<code><img src="https://img.icons8.com/color/48/000000/git.png"></code>
+<code><img src="https://img.icons8.com/ios-filled/50/000000/mysql.png"></code>
+<code><img src="https://img.icons8.com/color/48/000000/adobe-xd.png"></code>
+<code><img src="https://img.icons8.com/fluent/48/000000/google-cloud.png"></code>
+<code><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"></code>
+<code><img src="https://img.icons8.com/color/48/000000/css3.png"></code>
 
 📈 My GitHub Stats
 
