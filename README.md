@@ -19,6 +19,7 @@ Languages and Tools 🛠
 
 <code><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></code>
 <code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
+<code><img src="https://img.icons8.com/color/48/000000/python.png"></code>
 <code><img src="https://img.icons8.com/color/48/000000/android-os.png"></code>
 <code><img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"></code>
 <code><img src="https://img.icons8.com/color/48/000000/git.png"></code>
@@ -57,8 +58,8 @@ My GitHub Stats 📈
 My Todoist Stats 🚧 
 --------------------
 
-🏆  4,233 Karma Points                     
-✅  Completed 210 tasks so far           
-⏳  Longest streak is 7 days
+🏆  7,235 Karma Points                     
+✅  Completed 393 tasks so far           
+⏳  Longest streak is 26 days
   
 <code style="font-size:100px"> <b> ⚡ Fun fact: It took less code to send a man to the moon than to run a smartphone.</b> </code>
