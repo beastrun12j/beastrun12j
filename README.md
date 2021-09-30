@@ -16,7 +16,7 @@ About Me 🚀
 
 Languages and Tools 🛠
 -----------------------
-
+<span>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
 <img src="https://img.icons8.com/color/48/000000/python.png">
@@ -28,6 +28,7 @@ Languages and Tools 🛠
 <img src="https://img.icons8.com/fluent/48/000000/google-cloud.png">
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png">
 <img src="https://img.icons8.com/color/48/000000/css3.png">
+</span>
 
 Reach me out 💬
 ----------------
