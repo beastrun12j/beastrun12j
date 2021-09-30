@@ -68,7 +68,7 @@ My GitHub Stats 📈
 -------------------
 <span>
 <p> <img src="https://github-readme-stats.vercel.app/api?username=beastrun12j&show_icons=true&theme=gotham" alt="beastrun12j" />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beastrun12j&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="beastrun12j" /></p>
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beastrun12j&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="beastrun12j" /></p>
 </span>
 </br>
 </br>
