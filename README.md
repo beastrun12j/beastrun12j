@@ -58,7 +58,7 @@ Reach me out 💬
 </a>
 
 <a href="https://www.instagram.com/beastrun_12j/">
-  <img align="left" width="36px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
+  <img align="left" width="48px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
 </a>
 </br>
 
