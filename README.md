@@ -42,7 +42,7 @@ Reach me out 💬
 ----------------
 
 <a href="https://www.linkedin.com/in/pranav-kumar-10a164143/">
-  <img align="left"  width="36px" src="https://img.icons8.com/ios-filled/50/4a90e2/linkedin-2--v2.png"  />
+  <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
   
 <a href="https://twitter.com/Beastrun_12j">
