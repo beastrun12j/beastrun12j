@@ -56,7 +56,12 @@ Reach me out 💬
 <a href="mailto:pranavtiwari12j@gmail.com">
   <img align="left" width="36px" src="https://img.icons8.com/color/48/000000/gmail.png" />
 </a>
+
+<a href="https://www.instagram.com/beastrun_12j/">
+  <img align="left" width="36px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" />
+</a>
 </br>
+
 
 My GitHub Stats 📈
 -------------------
@@ -67,7 +72,7 @@ My GitHub Stats 📈
 My Todoist Stats 🚧 
 --------------------
 
-🏆   <p margin="8px">12,673 Karma Points<p>                     
+🏆   12,673 Karma Points                   
 ✅   Completed 1332 tasks so far           
 ⏳   Longest streak is 69 days
   
