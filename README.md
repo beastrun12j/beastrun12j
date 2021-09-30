@@ -18,16 +18,24 @@ Languages and Tools 🛠
 -----------------------
 <span>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
+<img src="https://img.icons8.com/color/48/000000/kotlin.png">
+<img src="https://img.icons8.com/color/50/000000/c-programming.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
 <img src="https://img.icons8.com/color/48/000000/python.png">
 <img src="https://img.icons8.com/color/48/000000/android-os.png">
-<img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png">
-<img src="https://img.icons8.com/color/48/000000/git.png">
-<img src="https://img.icons8.com/ios-filled/50/000000/mysql.png">
-<img src="https://img.icons8.com/color/48/000000/adobe-xd.png">
-<img src="https://img.icons8.com/fluent/48/000000/google-cloud.png">
+<img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png">
 <img src="https://img.icons8.com/color/48/000000/css3.png">
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png">
+<img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png">
+<img src="https://img.icons8.com/color/48/000000/adobe-xd.png">
+<img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png">
+<img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/docker.png"/>
+<img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
+<img src="https://img.icons8.com/fluent/48/000000/google-cloud.png">
 </span>
 
 Reach me out 💬
