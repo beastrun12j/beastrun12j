@@ -67,8 +67,8 @@ My GitHub Stats 📈
 My Todoist Stats 🚧 
 --------------------
 
-🏆  10,222 Karma Points                     
-✅  Completed 697 tasks so far           
-⏳  Longest streak is 62 days
+🏆  12,673 Karma Points                     
+✅  Completed 1332 tasks so far           
+⏳  Longest streak is 69 days
   
 <code style="font-size:100px"> <b> ⚡ Fun fact: It took less code to send a man to the moon than to run a smartphone.</b> </code>
