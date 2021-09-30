@@ -17,17 +17,17 @@ About Me 🚀
 Languages and Tools 🛠
 -----------------------
 
-<code><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></code>
-<code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
-<code><img src="https://img.icons8.com/color/48/000000/python.png"></code>
-<code><img src="https://img.icons8.com/color/48/000000/android-os.png"></code>
-<code><img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"></code>
-<code><img src="https://img.icons8.com/color/48/000000/git.png"></code>
-<code><img src="https://img.icons8.com/ios-filled/50/000000/mysql.png"></code>
-<code><img src="https://img.icons8.com/color/48/000000/adobe-xd.png"></code>
-<code><img src="https://img.icons8.com/fluent/48/000000/google-cloud.png"></code>
-<code><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"></code>
-<code><img src="https://img.icons8.com/color/48/000000/css3.png"></code>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
+<img src="https://img.icons8.com/color/48/000000/python.png">
+<img src="https://img.icons8.com/color/48/000000/android-os.png">
+<img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png">
+<img src="https://img.icons8.com/color/48/000000/git.png">
+<img src="https://img.icons8.com/ios-filled/50/000000/mysql.png">
+<img src="https://img.icons8.com/color/48/000000/adobe-xd.png">
+<img src="https://img.icons8.com/fluent/48/000000/google-cloud.png">
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png">
+<img src="https://img.icons8.com/color/48/000000/css3.png">
 
 Reach me out 💬
 ----------------
