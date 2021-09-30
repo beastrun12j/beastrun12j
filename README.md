@@ -67,7 +67,7 @@ My GitHub Stats 📈
 My Todoist Stats 🚧 
 --------------------
 
-🏆   12,673 Karma Points                     
+🏆   <p margin="8px">12,673 Karma Points<p>                     
 ✅   Completed 1332 tasks so far           
 ⏳   Longest streak is 69 days
   
