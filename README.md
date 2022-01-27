@@ -67,8 +67,8 @@ Reach me out 💬
 My GitHub Stats 📈
 -------------------
 <span>
-<img margin-right="36px" src="https://github-readme-stats.vercel.app/api?username=beastrun12j&show_icons=true&theme=gruvbox" alt="beastrun12j" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=beastrun12j&show_icons=true&theme=gruvbox&locale=en&layout=compact&langs_count=6" alt="beastrun12j" 
+<img margin-right="36px" src="https://github-readme-stats.vercel.app/api?username=beastrun12j&show_icons=true&theme=omni" alt="beastrun12j" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=beastrun12j&show_icons=true&theme=omni&locale=en&layout=compact&langs_count=6" alt="beastrun12j" 
 </span>
 </br>
   
