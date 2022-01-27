@@ -68,15 +68,15 @@ My GitHub Stats 📈
 -------------------
 <span>
 <img margin-right="36px" src="https://github-readme-stats.vercel.app/api?username=beastrun12j&show_icons=true&theme=gruvbox" alt="beastrun12j" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=beastrun12j&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="beastrun12j" 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=beastrun12j&show_icons=true&theme=gruvbox&locale=en&layout=compact&langs_count=6" alt="beastrun12j" 
 </span>
 </br>
   
 My Todoist Stats 🚧 
 --------------------
 
-🏆   12,673 Karma Points                   
-✅   Completed 1332 tasks so far           
+🏆   16,556 Karma Points                   
+✅   Completed 2438 tasks so far           
 ⏳   Longest streak is 69 days
   
 <code style="font-size:100px"> <b> ⚡ Fun fact: It took less code to send a man to the moon than to run a smartphone.</b> </code>
