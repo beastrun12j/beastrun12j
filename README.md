@@ -5,11 +5,11 @@ Hola! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/A
   
 About Me 🚀
 ------------
-🎓 I’m a Student and Open Source Enthusiast currently pursuing my Bachelors in Computer Science. </br>
-👨‍💻 I am passionate about Android, Web, UI/UX Designing and Cloud Technologies</br>
-🌱 I’m currently learning Advanced Android Development and UX Designing</br>
-🔭 I’m currently working on developing my core skills and Learning New and Futuristic Technologies</br>
-👯 I’m open to collaborate with people in the Open Source Environment</br>
+🎓 I’m a Student and Open Source Enthusiast currently pursuing my bachelor's in Computer Science. </br>
+👨‍💻 I am passionate about Android, Web and Data Science with a little bit experience over UI/UX Designing and Cloud Technologies. </br>
+🌱 I’m currently learning Advanced Android Development with Jetpack Compose and starting out with Data Science. </br>
+🔭 I’m currently working on developing my core Android skills and Exploring new technologies. </br>
+👯 I’m open to collaborating with people in the Open Source Environment. </br>
 
 <img align="right" alt="GIF" src="https://github.com/beastrun12j/beastrun12j/blob/master/60424-web-hosting.gif" width="400" height="320" />
 
@@ -75,8 +75,8 @@ My GitHub Stats 📈
 My Todoist Stats 🚧 
 --------------------
 
-🏆   16,556 Karma Points                   
-✅   Completed 2438 tasks so far           
+🏆   18,747 Karma Points                   
+✅   Completed 3076 tasks so far           
 ⏳   Longest streak is 69 days
   
 <code style="font-size:100px"> <b> ⚡ Fun fact: It took less code to send a man to the moon than to run a smartphone.</b> </code>
