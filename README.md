@@ -30,8 +30,6 @@ Languages and Tools 🛠
 <img src="https://img.icons8.com/color/48/000000/android-os.png">
 <img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png">
-<img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png">
-<img src="https://img.icons8.com/color/48/000000/adobe-xd.png">
 <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png">
 <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
