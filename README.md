@@ -45,10 +45,6 @@ Reach me out 💬
   <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
   
-<a href="https://www.behance.net/pranavtiwari3">
-  <img align="left" src="https://img.icons8.com/color/48/000000/behance.png"/>
-</a>
-  
 <a href="mailto:pranavtiwari12j@gmail.com">
   <img align="left" src="https://img.icons8.com/color/48/000000/gmail.png" />
 </a>
@@ -57,9 +53,10 @@ Reach me out 💬
   <img align="left" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
 </a>
 
-<a href="https://twitter.com/Beastrun_12j">
-  <img align="left" src="https://img.icons8.com/color/48/4a90e2/twitter--v2.png"/>
+<a href="https://leetcode.com/beastrun_12j/">  
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
 </a>
+
 </br>
 </br>
 
