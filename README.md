@@ -8,7 +8,7 @@ About Me 🚀
 🎓 I’m a Student and Open Source Enthusiast currently pursuing my bachelor's in Computer Science. </br>
 👨‍💻 I am passionate about Android, Web and Data Science with a little bit experience over UI/UX Designing and Cloud Technologies. </br>
 🌱 I’m currently learning Advanced React with Redux and Backend Development. </br>
-🔭 I’m currently working on developing my core DSA skills, building solutions to practical problems and Exploring new technologies. </br>
+🔭 I’m currently working on developing my core DSA skills and building solutions to practical problems </br>
 👯 I’m open to collaborating with people in the Open Source Environment. </br>
 
 <img align="right" alt="GIF" src="https://github.com/beastrun12j/beastrun12j/blob/master/60424-web-hosting.gif" width="400" height="320" />
