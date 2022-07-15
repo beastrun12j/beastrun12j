@@ -6,7 +6,7 @@ Hola! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/A
 About Me 🚀
 ------------
 🎓 I’m a Student and Open Source Enthusiast currently pursuing my bachelor's in Computer Science. </br>
-👨‍💻 I am passionate about Android, Web and Data Science with a little bit experience over UI/UX Designing and Cloud Technologies. </br>
+👨‍💻 I am passionate about Full Stack Web and Android Developemnt along with UI/UX Designing and Cloud Technologies. </br>
 🌱 I’m currently learning Advanced React with Redux and Backend Development. </br>
 🔭 I’m currently working on developing my core DSA skills and building solutions to practical problems </br>
 👯 I’m open to collaborating with people in the Open Source Environment. </br>
