@@ -18,11 +18,11 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About me 🛠
 -----------------------
 
-✔ I’m a Student and Open Source Enthusiast currently pursuing my bachelor's in Computer Science.<br>
-✔ I am passionate about Full Stack Web and Android Development along with UI/UX design and Cloud Technologies.<br>
-✔ I’m currently working on my project GoTrack using Golang and Next.js 14.<br>
-✔ I’m currently working on developing my core DSA skills and building solutions to practical problems<br>
-✔ I’m open to collaborating with people in the Open Source Environment.<br><br><br><br>
+✔ A Student and Open Source Enthusiast currently pursuing my bachelor's in Computer Science.<br>
+✔ Passionate about Full Stack Web and Android Development along with UI/UX design and Cloud Technologies.<br>
+✔ Currently working on my project GoTrack using Golang and Next.js 14.<br>
+✔ Learning New tech every day.<br>
+✔ Open to collaborate with people in the Open Source Environment.<br><br><br><br>
 
 <img align="right" alt="GIF" src="https://github.com/beastrun12j/beastrun12j/blob/master/60424-web-hosting.gif" width="400" height="320" />
 
@@ -31,7 +31,7 @@
 -----------------------
 <span>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,typescript,javascript,go,cs,cpp,c,python,nextjs,react,nodejs,sqlite,mysql,postgres,linux,django,html,css,firebase,tailwind,mongodb,kotlin,prisma,postman,dotnet,flask,docker,kubernetes&perline=8" />
   </a>
 </span>
 
@@ -40,10 +40,10 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/pranav-kumar-10a164143/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://twitter.com/Beastrun_12j" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 <a href="https://www.instagram.com/beastrun_12j/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+<a href="https://leetcode.com/beastrun_12j/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="leetcode" height="50" width="50" /></a>
+
   
 </p>
 
