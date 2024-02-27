@@ -21,19 +21,21 @@
 ✔ A Student and Open Source Enthusiast currently pursuing my bachelor's in Computer Science.<br>
 ✔ Passionate about Full Stack Web and Android Development along with UI/UX design and Cloud Technologies.<br>
 ✔ Currently working on my project GoTrack using Golang and Next.js 14.<br>
-✔ Learning New tech every day.<br>
-✔ Open to collaborate with people in the Open Source Environment.<br><br><br><br>
+✔ Open to collaborate with people in the Open Source Environment.<br>
+✔ Learning New things every day.<br><br><br><br>
 
+
+<div align="left">
+
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Languages and Tools </h2>
 <img align="right" alt="GIF" src="https://github.com/beastrun12j/beastrun12j/blob/master/60424-web-hosting.gif" width="400" height="320" />
-
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Languages and Tools 
------------------------
 <span>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,typescript,javascript,go,cs,cpp,c,python,nextjs,react,nodejs,sqlite,mysql,postgres,linux,django,html,css,firebase,tailwind,mongodb,kotlin,prisma,postman,dotnet,flask,docker,kubernetes&perline=8" />
   </a>
 </span>
+</div>
+<br><br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Reach me out 
 ----------------
