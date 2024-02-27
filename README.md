@@ -1,6 +1,6 @@
 <h1 align="center">Hola ,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Pranav Kumar </h1>
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/beastrun12j/beastrun12j/assets/79413577/351df92c-f7b2-423a-8a91-583b3f7b7666"
        alt="snake" /></a>
 </div>
 <p align="center">
