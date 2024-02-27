@@ -18,12 +18,13 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About me 🛠
 -----------------------
 
-✔ A Student and Open Source Enthusiast currently pursuing my bachelor's in Computer Science.<br>
-✔ Passionate about Full Stack Web and Android Development along with UI/UX design and Cloud Technologies.<br>
-✔ Currently working on my project GoTrack using Golang and Next.js 14.<br>
-✔ Open to collaborate with people in the Open Source Environment.<br>
-✔ Learning New things every day.<br><br><br><br>
+<img src="https://github.com/beastrun12j/beastrun12j/assets/79413577/c82c2469-e82d-40ae-a0bf-5e39299a4b53" align="right" width="350" />
 
+- 🎓 I'm a student currently pursuing my bachelor's in Computer Science. <br>
+- 🌱 Passionate about Full Stack Web and Android Development along with UI/UX design and Cloud Technologies.<br>
+- 👨‍💻 Currently working on my project GoTrack using Golang and Next.js 14.<br>
+- 👯 Open to collaborating with people in the Open Source Environment, especially in JavaScript, TypeScript, Go, and Java.<br>
+- 📫 How to reach me: pranavtiwari12j@gmail.com <br><br>
 
 <div align="left">
 
