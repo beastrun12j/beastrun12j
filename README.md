@@ -24,7 +24,7 @@
 - 🌱 Passionate about Full Stack Web and Android Development along with UI/UX design and Cloud Technologies.<br>
 - 👨‍💻 Currently working on my project GoTrack using Golang and Next.js 14.<br>
 - 👯 Open to collaborating with people in the Open Source Environment, especially in JavaScript, TypeScript, Go, and Java.<br>
-- 📫 How to reach me: pranavtiwari12j@gmail.com <br><br>
+- 📫 Reach me out: pranavtiwari12j@gmail.com <br><br>
 
 <div align="left">
 
